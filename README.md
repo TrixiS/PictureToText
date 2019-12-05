@@ -1,6 +1,8 @@
 # To Compile
 .NET Core SDK Required
 
+`dotnet restore`
+
 `dotnet build .`
 
 `dotnet "path_to_dll" "args"`
